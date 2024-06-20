@@ -1,11 +1,5 @@
 <?php
 
-// abstract class Mammal extends Animal{
-//     protected string $furColor;
-
-// public function __construct(string $furColor) {
-
-// }
 abstract class Mammal extends Animal {
     protected string $furColor;
 
